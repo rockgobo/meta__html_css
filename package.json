@@ -1,0 +1,22 @@
+{
+  "name": "metahtmlfinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockgobo/meta__html_css.git"
+  },
+  "author": "Christian Matyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockgobo/meta__html_css/issues"
+  },
+  "homepage": "https://github.com/rockgobo/meta__html_css#readme",
+  "devDependencies": {
+    "stylelint-config-standard-scss": "^6.1.0"
+  }
+}
