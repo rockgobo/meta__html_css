@@ -1,20 +1,28 @@
-By working through the lessons in this course, you have learned the necessary skills and knowledge to develop a home page for a fictional client. 
+# Meta - HTML and CSS course final exam
 
-Using your new knowledge of HTML and CSS you need to create a semantic structure with a header, main content and footer. Decide between a grid or flexbox for your layout. The client’s logo needs to be in the header and the main content needs to have a large promotional banner and three columns with text and images below it. The footer should have two columns. The first column must contain a smaller version of the logo and the second column should have copywriting information. 
+By working through the lessons in this course, you have learned the necessary skills and knowledge to develop a home page for a fictional client.
+
+Using your new knowledge of HTML and CSS you need to create a semantic structure with a header, main content and footer. Decide between a grid or flexbox for your layout. The client’s logo needs to be in the header and the main content needs to have a large promotional banner and three columns with text and images below it. The footer should have two columns. The first column must contain a smaller version of the logo and the second column should have copywriting information.
 
 In terms of styling, you should use your creativity to create the appropriate look and feel to capture the attention of the client’s target audience. You should use your knowledge about CSS selectors and effects to create the appropriate intentional engagement that would serve your client best.
 
-More detailed criteria are covered in the Grading Criteria Overview below. 
+More detailed criteria are covered in the Grading Criteria Overview below.
 
 To choose a client, read more about the four fictional clients in the Subject  reading.
 
 Still have some questions? The reading About the graded assessment provides answers to typical questions. The videos about Selecting the subject, Positioning the elements, creating placeholders and Planning the user experience offer valuable guidance on how to approach the project.
 
-# Review criteria
+## Client - Lucky Shrub
+
+Based in Tuscon, Arizona, Lucky Shrub is a medium-sized garden design firm that specializes in garden design and creation, maintenance and landscaping. The company also runs a small plant nursery that sells indoor and outdoor plants, making them a one-stop shop for clients to "transform any space into an oasis you can be proud of".
+
+Lucky Shrub was started by a husband and wife team, Jason and Maria, who share a long-time love for plants. Jason is the garden architect. He creates and oversees all designs while managing his team of landscapers. Maria manages all the marketing for the company and oversees the nursery.
+
+## Review criteria
 
 When you submit your assignment, other learners in the course will review and grade your work. They will be looking for the following:
 
-## Visual layout
+### Visual layout
 
 When viewing the home page in the browser:
 
@@ -26,7 +34,7 @@ When viewing the home page in the browser:
 * Does the page have a footer that is split into two columns?
 * Does the left column of the footer contain a small version of the client logo and the right column copyright text?
 
-## Semantic structure
+### Semantic structure
 
 When opening the HTML file in VS Code, does it contain:
 
@@ -36,9 +44,7 @@ When opening the HTML file in VS Code, does it contain:
 * A footer element for the footer?
 * Appropriate usage of other semantic tags such as article and section in the content of the main element?
 
-  
-
-## CSS layout, styling and effects
+### CSS layout, styling and effects
 
 When viewing the home page in the browser:
 
@@ -50,11 +56,11 @@ When viewing the home page in the browser:
 * Does it specify any pseudo-classes to create interactivity on the home page?
 * Are any animations or transition effects used? Do they improve the user experience or distract from it?
 
-## Overall effect of the home page
+### Overall effect of the home page
 
-Does the home page create adequate interaction and a pleasing visual experience that is fitting for the client and its customers? 
+Does the home page create adequate interaction and a pleasing visual experience that is fitting for the client and its customers?
 
-* Are CSS styling and effects used effectively to create intentional engagement? 
-* What works well? 
+* Are CSS styling and effects used effectively to create intentional engagement?
+* What works well?
 * What advice can you give to improve the user experience, layout and visuals of the home page?
 * You'll also need to give feedback on and grade the assignments of two other learners using the same criteria.
