@@ -26,7 +26,7 @@ When viewing the home page in the browser:
 * Does the page have a footer that is split into two columns?
 * Does the left column of the footer contain a small version of the client logo and the right column copyright text?
 
-Semantic structure
+## Semantic structure
 
 When opening the HTML file in VS Code, does it contain:
 
