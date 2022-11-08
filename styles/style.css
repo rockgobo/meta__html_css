@@ -5,7 +5,7 @@
 }
 
 :root {
-  --gutter: 30px;
+  --gutter: 40px;
 }
 
 body {
@@ -15,10 +15,12 @@ body {
   display: grid;
   grid-template-rows: auto auto auto 400px;
   gap: var(--gutter);
+  padding: 0 20px 0 20px;
 }
 
 header > .logo {
-  height: 25vh;
+  width: 25vh;
+  margin: 0 auto;
 }
 
 main {
@@ -50,6 +52,7 @@ footer {
 
 footer .logo {
   width: 10vw;
+  float: right;
 }
 
 .top {
